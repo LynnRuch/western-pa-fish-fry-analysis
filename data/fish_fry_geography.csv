@@ -1,0 +1,217 @@
+_id,venue_address,City,latitude,longitude
+5580,"2365 Concord Street, Aliquippa, Pennsylvania 15001 ",Aliquippa,40.61,-80.28
+5529,"2134 Brodhead Road, Aliquippa, Pennsylvania 15001 ",Aliquippa,40.58,-80.26
+5579,"2590 Brodhead Road, Aliquippa, Pennsylvania 15001 ",Aliquippa,40.6,-80.28
+5478,"Kohler Hall, 3005 Fatima Drive, Aliquippa, Pennsylvania 15001 ",Aliquippa,40.59,-80.26
+5542,"4061 Patterson Road, Aliquippa, Pennsylvania 15001 ",Aliquippa,40.62,-80.37
+5391,"952 Franklin Avenue, Aliquippa, Pennsylvania 15001 ",Aliquippa,40.61,-80.26
+5561,"9600 Babcock Boulevard, Allison Park, Pennsylvania 15101 ",Allison Park,40.58,-80
+5467,"2536 Duncan Avenue, Allison Park, Pennsylvania 15101 ",Allison Park,40.56,-79.96
+5369,"3008 William Flinn Highway, Allison Park, Pennsylvania 15101 ",Allison Park,40.55,-79.96
+5436," 2554 Wildwood Rd, Allison Park, PA 15101",Allison Park,40.59,-79.97
+5367,"799 Glenwood Avenue, Ambridge, Pennsylvania 15003 ",Ambridge,40.59,-80.23
+5396,"921 Amity Ridge Road Amity, PA 15311",Amity,40.06,-80.21
+5434,"1037 1st Street, Apollo, Pennsylvania 15613 ",Apollo,40.59,-79.53
+5466,"470 Joyce St., Apollo, PA 15613",Apollo,40.57,-79.65
+5314,"205 Brilliant Avenue, Aspinwall, Pennsylvania 15215 ",Aspinwall,40.49,-79.9
+5588,"501 Indiana Avenue, Avonmore, Pennsylvania 15618 ",Avonmore,40.53,-79.46
+5578,"201 Main Street, Avonmore, Pennsylvania 15680 ",Avonmore,40.52,-79.5
+5585,"271 State Street, Baden, Pennsylvania 15005 ",Baden,40.63,-80.23
+5557,"527 Bairdford Road, Bairdford, Pennsylvania 15006 ",Bairdford,40.63,-79.87
+5336,"5950 William Flinn Highway, Bakerstown, Pennsylvania 15007 ",Bakerstown,40.66,-79.93
+5392,"370 East End Avenue, Beaver, Pennsylvania 15009 ",Beaver,40.7,-80.3
+5417,"407 Darlington Rd, Beaver Falls, PA 15010",Beaver Falls,40.75,-80.33
+5553,"116 Thorndale Drive, Beaver Falls, Pennsylvania 15010 ",Beaver Falls,40.77,-80.36
+5564,"10 Main Street Belle Vernon, PA 15680",Belle Vernon,40.13,-79.88
+5333,"1100 Fells Church Road, Belle Vernon, Pennsylvania 15012 ",Belle Vernon,40.19,-79.83
+5523,"45 North Sprague Avenue, Bellvue, Pennsylvania 15202 ",Bellvue,40.5,-80.06
+5572,"208 Abromaitis Street, Bentleyville, Pennsylvania 15314 ",Bentleyville,40.11,-80.01
+5426,"208 Abromaitis Street, Bentleyville, Pennsylvania 15314 ",Bentleyville,40.11,-80.01
+5324,"2409 Bethel Church Rd., Bethel Park, PA 15102",Bethel Park,40.34,-80.03
+5405,"44 Highland Rd., Bethel Park, PA 15102",Bethel Park,40.35,-80.05
+5345,"126 Fort Couch Road, Bethel Park, PA 15102",Bethel Park,40.34,-80.05
+5393,"2710 Ohio St. Bethel Park, PA 15102",Bethel Park,40.33,-80.03
+5485,"45 Prestley Road, Bridgeville, Pennsylvania 15017 ",Bridgeville,40.37,-80.12
+5509,"193 Miller's Run Road, Bridgeville, Pennsylvania 15017 ",Bridgeville,40.36,-80.12
+5330,"700 Bower Hill Road Bridgeville, PA 15017",Bridgeville,40.36,-80.11
+5492,"118 Church Street, Brownsville, Pennsylvania 15417 ",Brownsville,40.02,-79.88
+5474,"3333 Fire Station Street, Buena Vista, Pennsylvania 15018 ",Buena Vista,40.28,-79.8
+5465,"1111 South Main Street, Burgettstown, Pennsylvania 15021 ",Burgettstown,40.37,-80.39
+5554,"125 Buttercup Road, Butler, Pennsylvania 16001 ",Butler,40.85,-79.97
+5461,"821 Herman Road, Butler, PA 16002",Butler,40.83,-79.82
+5375,"707 Winfield Road, Cabot, Pennsylvania 16023 ",Cabot,40.77,-79.76
+5515,"1100 Corporate Drive, Canonsburg, Pennsylvania 15317 ",Canonsburg,40.3,-80.17
+5372,"317 West Pike Street, Canonsburg, Pennsylvania 15317 ",Canonsburg,40.26,-80.19
+5571,"688 Western Avenue, Canonsburg, Pennsylvania 15317 ",Canonsburg,40.25,-80.25
+5458,"202 3rd Avenue, Carnegie, Pennsylvania 15106 ",Carnegie,40.4,-80.09
+5586,"730 Washington Avenue, Carnegie, Pennsylvania 15106 ",Carnegie,40.4,-80.08
+5476,"302 Mansfield Boulevard, Carnegie, Pennsylvania 15106 ",Carnegie,40.41,-80.08
+5359,"1660 Pennsylvania Highway 481, Charleroi, Pennsylvania 15022 ",Charleroi,40.14,-79.95
+5394,"135 Little Deer Creek Road, Cheswick, Pennsylvania 15024 ",Cheswick,40.59,-79.83
+5335,"412 Coal Valley Road, Clairton, Pennsylvania 15025 ",Clairton,40.32,-79.91
+5439,"415 Mill Street, Coraopolis, Pennsylvania 15108 ",Coraopolis,40.52,-80.16
+5524,"1313 5th Avenue, Coraopolis, Pennsylvania 15108 ",Coraopolis,40.52,-80.16
+5317,"388 Cemetery Road, Crabtree, Pennsylvania 15624 ",Crabtree,40.36,-79.47
+5486,"25 Walsh Road, Crafton, Pennsylvania 15205 ",Crafton,40.44,-80.07
+5437,"2535 Rochester Road, Cranberry Township, Pennsylvania 16066 ",Cranberry Township,40.7,-80.11
+5430,"7076 Franklin Road, Cranberry Township, PA 16066",Cranberry Township,40.68,-80.07
+5377,"305 Freeport Street, Delmont, Pennsylvania 15626 ",Delmont,40.42,-79.57
+5499,"1 Park Manor, Donora, Pennsylvania 15033 ",Donora,40.18,-79.87
+5344,"598 Ravine Street, Dravosburg, PA 15034",Dravosburg,40.35,-79.89
+5565,"1111 Grant Avenue, Duquesne, Pennsylvania 15110 ",Duquesne,40.37,-79.86
+5362,"944 Greensburg Pike, East Pittsburgh, Pennsylvania 15112 ",East Pittsburgh,40.41,-79.84
+5332,"109 Powell St, East Pittsburgh, PA 15112",East Pittsburgh,40.42,-79.84
+5549,"411 Mckinley Avenue, East Vandergrift, Pennsylvania 15629 ",East Vandergrift,40.6,-79.56
+5552,"409 Oxford Avenue, Elizabeth, Pennsylvania 15037 ",Elizabeth,40.27,-79.88
+5483,"101 Mclay Drive, Elizabeth, Pennsylvania 15037 ",Elizabeth,40.27,-79.84
+5424,"350 Butler Street, Etna, Pennsylvania 15223 ",Etna,40.5,-79.94
+5408,"3609 Washington Ave, Finleyville, Pennsylvania 15332 ",Finleyville,40.25,-80
+5354,1101 Old National Pike Fredericktown PA 15333,Fredericktown,40.05,-79.99
+5517,"530 Michigan Avenue, Glassport, Pennsylvania 15045 ",Glassport,40.33,-79.89
+5538,"1822 Middle Road, Glenshaw, Pennsylvania 15116 ",Glenshaw,40.54,-79.93
+5450,"2510 Middle Road, Glenshaw, Pennsylvania 15116 ",Glenshaw,40.56,-79.93
+5568,"2061 Brown Avenue, Grapeville, Pennsylvania 15634 ",Grapeville,40.33,-79.61
+5418,"2 Washington Street, Greensburg, Pennsylvania 15601 ",Greensburg,40.32,-79.51
+5479,"5274 Lincoln Highway, Greensburg, Pennsylvania 15601 ",Greensburg,40.3,-79.58
+5489,"1011 Mount Pleasant Road, Greensburg, Pennsylvania 15601 ",Greensburg,40.29,-79.53
+5419,"111 Raymaley Road, Harrison City, Pennsylvania 15636 ",Harrison City,40.36,-79.65
+5501,"376 Lowber Road, Herminie, Pennsylvania 15660 ",Herminie,40.26,-79.72
+5348,"601 Amity Street, Homestead, Pennsylvania 15120 ",Homestead,40.41,-79.91
+5442,"363 West 11th Avenue, Homestead, Pennsylvania 15120 ",Homestead,40.4,-79.91
+5389,"102 Silver Slipper Rd Hookstown, Pennsylvania 15050",Hookstown,40.59,-80.48
+5407,"111 Pine Street, Imperial, Pennsylvania 15126 ",Imperial,40.45,-80.25
+5395,"3487 Harrison City-Jeannette Road, Irwin, Pennsylvania 15642 ",Irwin,40.36,-79.67
+5428,"504 Cowan Avenue, Jeannette, Pennsylvania 15644 ",Jeannette,40.33,-79.62
+5366,"139 Gill Hall Road, Jefferson Hills, Pennsylvania 15025 ",Jefferson Hills,40.31,-79.96
+5347,"343 Forest Grove Road Kennedy Township, PA 15136",Kennedy Township,40.48,-80.1
+5364,"1340 Brownstown Rd., Larimer, PA 15647",Larimer,40.34,-79.73
+5556,"268 Canal Street Leechburg, PA 15656",Leechburg,40.63,-79.6
+5472,"536 State Route 130 Level Green, Pennsylvania 15085",Level Green,40.39,-79.73
+5531,"1100 Wildlife Lodge Rd., Lower Burrell, PA 15068",Lower Burrell,40.58,-79.71
+5482,"84 Broad Street, Marianna, PA 15345",Marianna,40.02,-80.09
+5477,"717 Robinson Highway, Mc Donald, Pennsylvania 15057 ",Mc Donald,40.38,-80.26
+5540,"225 Olivia Street, McKees Rocks, Pennsylvania 15136 ",McKees Rocks,40.47,-80.06
+5527,"803 Market Street, Mckeesport, Pennsylvania 15132 ",Mckeesport,40.35,-79.87
+5337,"1030 Fifth Avenue East McKeesport, PA 15035",Mckeesport,40.38,-79.81
+5357,"901 Hartman, Mckeesport, PA 15132",Mckeesport,40.35,-79.83
+5491," 120 Abington Dr, McMurray, PA 15317",McMurray,40.28,-80.09
+5533,"460 Valleybrook Rd, McMurray, PA 15317",McMurray,40.29,-80.09
+5548,"400 Grant Avenue, Millvale, Pennsylvania 15209 ",Millvale,40.48,-79.97
+5530,"501 East Ohio Street, Millvale, Pennsylvania 15209 ",Millvale,40.48,-79.97
+5562,"2002 Wagner Road, Monaca, Pennsylvania 15061 ",Monaca,40.67,-80.32
+5390,"44 Pennsylvania Blvd, Monessen, Pennsylvania 15062 ",Monessen,40.14,-79.88
+5469,"444 Jackson St, Monongahela, PA 15063",Monongahela,40.2,-79.93
+5521,"455 Center Road, Monroeville, Pennsylvania 15146 ",Monroeville,40.45,-79.76
+5473,"2110 Haymaker Road, Monroeville, PA 15146",Monroeville,40.4,-79.76
+5534,"1150 Stoops Ferry Road, Moon Township, Pennsylvania 15108 ",Moon Township,40.54,-80.21
+5468,"1066 Washington Road, Mt. Lebanon, PA 15228",Mt. Lebanon,40.37,-80.05
+5490,"4200 Homestead-Duquesne Road, Munhall, PA 15120",Munhall,40.38,-79.9
+5420,"800 Montana Avenue, Natrona Heights, Pennsylvania 15065 ",Natrona Heights,40.62,-79.73
+5558,"14 Linden Street, Natrona Heights, Pennsylvania 15065 ",Natrona Heights,40.61,-79.72
+5388,"107 Main St, New Eagle, PA 15067",New Eagle,40.21,-79.94
+5380,"1001 Summit Ave., New Kensington, PA 15068",New Kensington,40.55,-79.75
+5371,"915 New York Avenue, New Kensington, Pennsylvania 15068 ",New Kensington,40.55,-79.74
+5438,"100 Freeport Road, New Kensington, PA 15068",New Kensington,40.56,-79.76
+5545,"1710 7th Street, New Kensington, Pennsylvania 15068 ",New Kensington,40.56,-79.74
+5547,"1150 Leishman Avenue, New Kensington, Pennsylvania 15068 ",New Kensington,40.57,-79.76
+5328,"4370 7th Street Road, New Kensington, Pennsylvania 15068 ",New Kensington,40.55,-79.67
+5502,"1318 Wolfe, North Braddock, PA 15104",North Braddock,40.41,-79.85
+5550,"890 Rose Street, North Huntingdon, Pennsylvania 15642 ",North Huntingdon,40.32,-79.72
+5463,"200 Leger Road, North Huntingdon, Pennsylvania 15642 ",North Huntingdon,40.35,-79.76
+5435,"11400 St Agnes Lane, North Huntingdon, Pennsylvania 15642 ",North Huntingdon,40.31,-79.73
+5522,"90 Bethel Road, North Huntingdon, Pennsylvania 15642 ",North Huntingdon,40.33,-79.75
+5460,"29 Broadway Avenue, North Irwin, Pennsylvania 15642 ",North Irwin,40.34,-79.71
+5555,"830 Sylvan Ave., North Versailles, PA 15137",North Versailles,40.39,-79.8
+5423,"7971 Steubenville Pike, Oakdale, Pennsylvania 15071 ",Oakdale,40.44,-80.24
+5514,"7101 Steubenville Pike, Oakdale, PA 15071",Oakdale,40.44,-80.18
+5480,"Hoffstot's Cafe Monaco, 533 Allegheny Ave, Oakmont, Pennsylvania 15139 ",Oakmont,40.52,-79.84
+5516,"106 Washington Avenue, Oakmont, Pennsylvania 15139 ",Oakmont,40.52,-79.85
+5519,"387 Maryland Avenue, Oakmont, Pennsylvania 15139 ",Oakmont,40.52,-79.84
+5454,"100 South Center Avenue Pitcairn, PA, 15140",Pitcairn,40.4,-79.78
+5582,"400 Cedar Avenue, Pittsburgh, Pennsylvania 15212 ",Pittsburgh,40.45,-80
+5587,"758 Brookline Boulevard, Pittsburgh, Pennsylvania 15226 ",Pittsburgh,40.39,-80.02
+5488,"114 Berry St., Pittsburgh, PA 15205",Pittsburgh,40.45,-80.07
+5576,"201 Saline Street, Pittsburgh, Pennsylvania 15207 ",Pittsburgh,40.43,-79.95
+5447,"616 South Avenue, Pittsburgh, Pennsylvania 15221 ",Pittsburgh,40.44,-79.89
+5525,"3198 Shieck Street, Pittsburgh, Pennsylvania 15227 ",Pittsburgh,40.39,-79.96
+5543,"5801 Bryant Street, Pittsburgh, Pennsylvania 15206 ",Pittsburgh,40.48,-79.92
+5503,"1818 Morningside Ave. Pittsburgh, PA 15206",Pittsburgh,40.49,-79.93
+5574,"3601 Butler Street, Pittsburgh, Pennsylvania 15201 ",Pittsburgh,40.47,-79.97
+5409,"805 East Street, Pittsburgh, Pennsylvania 15212 ",Pittsburgh,40.45,-80
+5493,"107 Flowers Avenue, Pittsburgh, Pennsylvania 15207 ",Pittsburgh,40.41,-79.94
+5563,"Herschel St, Pittsburgh, PA 15220",Pittsburgh,40.44,-80.04
+5349,"164 Washington Place, Pittsburgh, Pennsylvania 15219 ",Pittsburgh,40.44,-79.99
+5475,"1805 East Carson Street, Pittsburgh, Pennsylvania 15203 ",Pittsburgh,40.43,-79.98
+5528,"300 South Pacific Avenue, Pittsburgh, Pennsylvania 15224 ",Pittsburgh,40.46,-79.94
+5383,"2524 Sarah Street, Pittsburgh, Pennsylvania 15203 ",Pittsburgh,40.43,-79.97
+5356,"3058 Brereton Street, Pittsburgh, Pennsylvania 15219 ",Pittsburgh,40.46,-79.97
+5384,"81 South 13th Street, Pittsburgh, Pennsylvania 15203 ",Pittsburgh,40.43,-79.98
+5453,"1515 Tinsbury Street, Pittsburgh, Pennsylvania 15212 ",Pittsburgh,40.46,-79.98
+5343,"3319 W. Liberty Ave. Pittsburgh, PA 15216",Pittsburgh,40.39,-80.04
+5381,"720 Blaw Avenue, Pittsburgh, Pennsylvania 15238 ",Pittsburgh,40.49,-79.86
+5410,"20 Market Square, Pittsburgh, PA 15222",Pittsburgh,40.44,-80
+5455,"2518 East Carson Street, Pittsburgh, Pennsylvania 15203 ",Pittsburgh,40.43,-79.97
+5339,"1000 Tropical Avenue, Pittsburgh, Pennsylvania 15216 ",Pittsburgh,40.42,-80.03
+5470,"2872 Custer Avenue, Pittsburgh, Pennsylvania 15227 ",Pittsburgh,40.39,-79.97
+5481,"800 Vinial Street, Pittsburgh, Pennsylvania 15212 ",Pittsburgh,40.46,-79.99
+5584,"1000 Airport Boulevard, Pittsburgh, Pennsylvania 15231 ",Pittsburgh,40.5,-80.26
+5546,"6300 East Liberty Boulevard, Pittsburgh, Pennsylvania 15206 ",Pittsburgh,40.46,-79.92
+5464,"8 Market Square, Pittsburgh, Pennsylvania 15222 ",Pittsburgh,40.44,-80
+5537,"242 Forbes Avenue, Pittsburgh, Pennsylvania 15222 ",Pittsburgh,40.44,-80
+5352,"1711 Penn Avenue, Pittsburgh, Pennsylvania 15222 ",Pittsburgh,40.45,-79.99
+5397,"325 Emerson Street, Pittsburgh, Pennsylvania 15206 ",Pittsburgh,40.46,-79.92
+5431,"4040 Willow Ave, Pittsburgh, Pennsylvania 15234 ",Pittsburgh,40.36,-80.03
+5520,"300 23rd Street, Pittsburgh, Pennsylvania 15215 ",Pittsburgh,40.5,-79.91
+5504,"2120 Jane Street, Pittsburgh, Pennsylvania 15203 ",Pittsburgh,40.43,-79.98
+5342,"1907 Broadway Avenue, Pittsburgh, Pennsylvania 15216 ",Pittsburgh,40.41,-80.03
+5373,"5200 Greenridge Drive, Pittsburgh, Pennsylvania 15236 ",Pittsburgh,40.36,-80.01
+5500,"2001 Ardmore Boulevard, Pittsburgh, Pennsylvania 15221 ",Pittsburgh,40.42,-79.85
+5400,"311 Washington Road, Pittsburgh, Pennsylvania 15216 ",Pittsburgh,40.39,-80.04
+5573,"1625 Greentree Road, Pittsburgh, Pennsylvania 15220 ",Pittsburgh,40.4,-80.06
+5497,"2009 Penn Avenue, Pittsburgh, Pennsylvania 15222 ",Pittsburgh,40.45,-79.98
+5569,"800 Avila Court, Pittsburgh, Pennsylvania 15237 ",Pittsburgh,40.54,-80.04
+5432,"139 Gill Hall Road Pittsburgh, PA 15236",Pittsburgh,40.32,-79.96
+5358,"7400 Irvine Street, Pittsburgh, PA 15218",Pittsburgh,40.42,-79.89
+5452,"1830 E Carson St Pittsburgh, Pennsylvania 15203",Pittsburgh,40.43,-79.98
+5331,"8200 Mcknight Road, Pittsburgh, Pennsylvania 15237 ",Pittsburgh,40.56,-80.02
+5496,"210 Settlers Ridge Center Dr, Pittsburgh, Pennsylvania 15205 ",Pittsburgh,40.44,-80.15
+5441,"415 Old Abers Creek Road, Plum, Pennsylvania 15239 ",Plum,40.47,-79.71
+5399,"480 Holy Family Way, Plum, Pennsylvania 15239 ",Plum,40.49,-79.78
+5322,"2000 O'block Road, Plum, Pennsylvania 15239 ",Plum,40.48,-79.72
+5412,"222 Renton Avenue, Plum, Pennsylvania 15239 ",Plum,40.5,-79.73
+5449,"5228 Thoms Run Road, Presto, Pennsylvania 15142 ",Presto,40.37,-80.12
+5459,"414 Hawkins Avenue, Rankin, Pennsylvania 15104 ",Rankin,40.41,-79.88
+5360,"30 Suburban Ave., Rennerdale, PA 15106",Rennerdale,40.4,-80.14
+5385,"14 Firehall Road, Richeyville, PA 15358",Richeyville,40.05,-80
+5321,"643 California Avenue, Rochester, Pennsylvania 15074 ",Rochester,40.71,-80.29
+5462,"1297 PA-68, Rochester, PA 15074",Rochester,40.75,-80.21
+5416,"200 Walnut Street, Sewickley, Pennsylvania 15143 ",Sewickley,40.54,-80.18
+5323,"2586 Wexford Bayne Road, Sewickley, Pennsylvania 15143 ",Sewickley,40.61,-80.11
+5457,"2586 Wexford Bayne Road, Sewickley, Pennsylvania 15143 ",Sewickley,40.61,-80.11
+5443,"615 Main Street, Sharpsburg, Pennsylvania 15215 ",Sharpsburg,40.49,-79.94
+5518,316 Railroad St. Stockdale PA 15483,Stockdale,40.08,-79.85
+5456,"401 East 8th Avenue, Tarentum, PA 15084",Tarentum,40.6,-79.75
+5526,"1590 Saxonburg Boulevard, Tarentum, Pennsylvania 15084 ",Tarentum,40.65,-79.84
+5413,"209 Brinton Ave, Trafford, PA 15085",Trafford,40.38,-79.76
+5513,"192 11th Street Turtle Creek, PA 15145",Turtle Creek,40.4,-79.82
+5510,"912 Penn Avenue, Turtle Creek, Pennsylvania 15145 ",Turtle Creek,40.4,-79.83
+5567,"310 Mcmurray Road, Upper Saint Clair, Pennsylvania 15241 ",Upper Saint Clair,40.32,-80.07
+5398,"825 2nd St, Verona, Pennsylvania 15147 ",Verona,40.51,-79.84
+5440,"605 Hewitt Ave. Washington, PA 15301",Washington,40.17,-80.25
+5445,"119 West Chestnut Street, Washington, Pennsylvania 15301 ",Washington,40.17,-80.25
+5379,"328 Weaver Run Road, Washington, Pennsylvania 15301 ",Washington,40.08,-80.18
+5350,"290 Hallam Road, Washington, Pennsylvania 15301 ",Washington,40.14,-80.18
+5544,"119 West Chestnut Street, Washington, Pennsylvania 15301 ",Washington,40.17,-80.25
+5361,"267 East Beau Street, Washington, Pennsylvania 15301 ",Washington,40.17,-80.24
+5570,"373 Washington Road, Washington, Pennsylvania 15301 ",Washington,40.19,-80.22
+5415,"660 Noble Dr., West Mifflin, PA 15122",West Mifflin,40.36,-79.93
+5365,"622 Saint Agnes Lane, West Mifflin, Pennsylvania 15122 ",West Mifflin,40.37,-79.88
+5532,"90 Supervisor Dr, West Newton, Pennsylvania 15089 ",West Newton,40.19,-79.73
+5353,"102 S Water St, West Newton, Pennsylvania 15089 ",West Newton,40.21,-79.77
+5386,"512 Perry Highway, West View, Pennsylvania 15229 ",West View,40.52,-80.03
+5318,"201 Church Road, Wexford, Pennsylvania 15090 ",Wexford,40.63,-80.06
+5346,"12599 Perry Highway, Wexford, Pennsylvania 15090 ",Wexford,40.64,-80.06
+5577,"2813 Capitol Street, White Oak, Pennsylvania 15131 ",White Oak,40.35,-79.82
+5446,"2916 Jacks Run Road, White Oak, PA 15131",White Oak,40.34,-79.8
+5560,"215 West New Castle Street, Zelienople, Pennsylvania 16063 ",Zelienople,40.8,-80.14
+5505,"115 Pine Street, Zelienople, Pennsylvania 16063 ",Zelienople,40.79,-80.14

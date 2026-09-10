@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / temporary files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Local DBeaver artifacts
+.metadata/
+.dbeaver/
